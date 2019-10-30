@@ -1,0 +1,4 @@
+1, COALESCE 函数: 返回列表中的第一个非空表达式
+e.g 下面的语句返回值 34
+SELECT COALESCE( NULL, 34, 13, 0 ) 
+* 如果所有参数均为 NULL，则 COALESCE 返回 NULL。
