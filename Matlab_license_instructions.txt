@@ -1,0 +1,26 @@
+Pavel Brendler
+University of Bonn
+
+Instructions to download a licensed version of Matlab R2017b. The use of this license is reserved only for the students enrolled in Research Module in Macroeconomics and Public Economics: The Macroeconomics of Inequality at the University of Bonn. 
+
+
+Follow the two steps below to install Matlab:
+
+1) Download any FTP (File Transfer Protocol) client. You will need this client to be able to access the Matlab installation files located at our FTP server. If you already have such a client installed on your local machine, proceed to the next step. If you don't have any client installed (or you have no idea what I am talking about right now), I suggest you download Cyberduck at https://cyberduck.io/download/
+
+This is a very simple tool that you can use at no cost.
+
+2) In your FTP client, create a new connection:
+
+Type: FTP 
+Server: ftp.wiwi.uni-bonn.de
+Username: matlab
+Password: matlabr2018b
+
+(In Cyberduck, go to Open Connection, enter the info above and then press Connect.)
+
+Once you connect to our server, you should see two folders. Folder Software contains the installation files both for Windows and Mac. Folder  Classroom-License contains detailed instructions on how to install Matlab. These instructions are located in file R2018b Installation for Dummies.pdf. 
+
+If you use Windows, the relevant installation file for you is R2018b_win64.iso. You need to mount this file. One way to do that is to follow instructions here https://people.cs.umass.edu/~verts/coins105/Access/Opening_ISO_with_WinRAR.html (thanks Goetz for the hint!) 
+
+Note that each time you open Matlab, you will need to verify that you are a student at the University of Bonn. If you use Matlab on campus, simply connect to the bonnet wifi network before opening Matlab. If you use Matlab at home, connect first to the University of Bonn network using a VPN client.
