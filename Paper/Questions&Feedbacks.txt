@@ -1,0 +1,15 @@
+Q1, EU emissions have fallen by 22% from 1990 to 2017, Sweden 
+GHG emission decreased 26% from 1990 to 2017, why do you say Sweden is a great success for carbon reform since 26% is not much higher than 22%. 
+A: finding more "shocking" data about Sweden's carbon reform achievements.
+Hint1: finding GHG data from  east european countries which normally have high GHG emission, so that Sweden and these countries can be compared to Sweden's success.
+Hint2: finding graph showing GHG reductions from all main european countries.
+Q2: why not putting "current situation in Germany" in front of "Sweden's success"?
+Q3: Population growth formular, what if survive probability equals 0?
+Q4: who supplies carbon-emitting energy?
+A: no supplier exists, only demand side, no supply side.
+Q5, Equilibrium part, Pe+Tauc should be corrected into Pe.
+Q6, goveronment budget balance and third equation in markets clear
+Q7, Life span and age of retirement should be corrected to model age
+Q8, new labor tax rate should be calculated "inside the model". Weight of energy on consumption is 7%, but we assume weight of energy on total output is 5%, which is very conflicting.
+Q9, in the preliminary result the capital K has increased too much, 30% which is abnormal.
+ 
